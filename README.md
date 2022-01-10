@@ -1,6 +1,6 @@
 # Welcome to my archlinux config :)
 
-![Arch](../../.screenshots/archmain.png)
+![Arch](.screenshots/archmain.png)
 
 ## List of apps and other software
 
