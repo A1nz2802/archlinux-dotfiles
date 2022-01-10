@@ -22,7 +22,7 @@ git clone https://github.com/a1nz2802/dotfiles.git
 cp -r dotfiles/.config/rofi ~/.config
 ```
 
-Delete this line in ~/.config/config.rasi
+Delete this line in ~/.config/rofi/config.rasi
 
 ```css
 theme: "onedark";
