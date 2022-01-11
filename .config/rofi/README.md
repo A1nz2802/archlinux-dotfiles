@@ -1,5 +1,7 @@
 # Rofi
 
+![Rofi](../../.screenshots/rofimain.png)
+
 Install *rofi* and dependencies:
 
 ```bash
