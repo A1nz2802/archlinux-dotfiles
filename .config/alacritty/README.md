@@ -1,1 +1,1 @@
-!(Alacritty)[../../.screenshots/alacrittymain.png]
+![Alacritty](../../.screenshots/alacrittymain.png)
