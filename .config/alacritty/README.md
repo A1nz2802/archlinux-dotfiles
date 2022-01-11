@@ -1,0 +1,1 @@
+!(Alacritty)[../../.screenshots/alacrittymain.png]
