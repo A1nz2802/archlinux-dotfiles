@@ -8,7 +8,7 @@
 - [Alacritty](https://wiki.archlinux.org/title/Alacritty)
 - [Rofi](https://github.com/A1nz2802/dotfiles/tree/main/.config/rofi)
 - [Vscode](https://aur.archlinux.org/packages/visual-studio-code-bin)
-- Neovim
+- [Neovim](https://github.com/A1nz2802/dotfiles/tree/main/.config/nvim)
 - [Scrot](https://en.wikipedia.org/wiki/Scrot)
 - [Fish](https://fishshell.com/docs/current/)
 - [Picom](https://wiki.archlinux.org/title/Picom)
@@ -16,7 +16,7 @@
 - [Lightdm Glorious Theme](https://github.com/thegamerhat/lightdm-glorious-webkit2)
 
 ### Resources
-
+- [Nicolas Schurmann Neovim configs](https://github.com/nschurmann/configs)
 - [Antonio sarosi Dotfiles](https://github.com/antoniosarosi/dotfiles)
 - [Derek Taylor Dotfiles](https://gitlab.com/dwt1/dotfiles/-/tree/master/)
 - [Instalation guide archlinux](https://www.youtube.com/watch?v=JDLFAjX3yfc&t=812s)
