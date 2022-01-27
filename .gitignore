@@ -15,3 +15,8 @@
 !.Xresources
 !.config
 !.local
+
+# nvim
+.vim/plugged
+.DS_Store
+.netrwhist
