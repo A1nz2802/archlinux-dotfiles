@@ -1,10 +1,15 @@
 # A1nz's dotfiles 
 
+## Qtile config
 ![Arch](.screenshots/archmain.png)
 
-## List of apps and other software
+## XMonad config
+![Arch-2](https://i.imgur.com/zJtpxfe.png)
+
+### List of apps and other software
 
 - [Qtile](http://docs.qtile.org/en/stable/)
+- [XMonad](https://wiki.archlinux.org/title/xmonad)
 - [Alacritty](https://wiki.archlinux.org/title/Alacritty)
 - [Rofi](https://github.com/A1nz2802/dotfiles/tree/main/.config/rofi)
 - [Vscode](https://aur.archlinux.org/packages/visual-studio-code-bin)
